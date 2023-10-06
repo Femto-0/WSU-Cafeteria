@@ -1,0 +1,27 @@
+Burger, 250, 5.20
+Chicken Tenders, 100, 3.50
+Toast, 20, 2.69
+Smoothie, 350, 5.90
+Oysetrs, 10, 3
+Littleneck Clams, 20, 2.25
+Cherrystones, 100, 2.00
+Jumbo Shrimp Cocktail, 250, 3.75
+Creamy Clam Chowder, 100, 2.43
+Lobster Mac and Cheese, 200, 3.31
+Fresh Salmon Teriyaki, 200, 1.23
+Grilled Cheese and Tomato, 120, 2.43
+Fried Fish Sandwich, 230, 3.43
+Fish and Chips, 123, 3.13
+Clam Basket, 421, 1.23
+Gulf Shrimp, 231, 8.45
+Caesar Salad, 213, 4.43
+Bleu Cheese Dressing, 150, 3.21
+Corn on the cob, 411, 5.12
+Clam Fritters, 312, 1.42
+French Fries, 221, 10.69
+Cole Slaw, 311, 4.24
+Mac and Cheese, 152, 1.12
+Onion Strings, 75, 12.23
+Coke, 300, 1.54
+Pepsi, 250, 3.23
+orange Juice, 300, 3.56
